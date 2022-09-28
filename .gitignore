@@ -1,10 +1,8 @@
 *.obj
+*.o
 *.dll.manifest
-*.dll
 *.exe.manifest
 *.exe
-*.lib
-*.pdb
 *.ilk
 *.exp
 version.res
@@ -17,3 +15,4 @@ tests/benchlib.o
 tests/SIZES.*
 tests/*.log
 /.project
+build/
